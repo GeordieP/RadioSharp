@@ -5,3 +5,5 @@ c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\obj\x86\Debug\
 c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\obj\x86\Debug\RadioSharp.csproj.GenerateResource.Cache
 c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\obj\x86\Debug\RadioSharp.exe
 c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\obj\x86\Debug\RadioSharp.pdb
+c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\bin\Debug\Bass.Net.dll
+c:\users\geordie\documents\visual studio 2010\Projects\RadioSharp\bin\Debug\Bass.Net.xml
